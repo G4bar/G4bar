@@ -33,7 +33,6 @@ Backend and data systems, with a focus on real-time data and sports analytics.
 - Backend Engineering
 - Data Engineering
 - AI-assisted Software Development
-- Sports Analytics
 
 ---
 
