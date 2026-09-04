@@ -8,7 +8,7 @@
 
 Backend and data systems, with a focus on real-time data.
 
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/gabar))
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/gabar)
 
 </div>
 
