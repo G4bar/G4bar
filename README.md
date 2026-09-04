@@ -9,7 +9,6 @@
 Backend and data systems, with a focus on real-time data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-berti18/)
-[![Website](https://img.shields.io/badge/oddshield.com-2b2b2b?style=flat&logo=googlechrome&logoColor=white)](https://oddshield.com)
 
 </div>
 
