@@ -8,7 +8,7 @@
 
 Backend and data systems, with a focus on real-time data.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-berti18/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/gabar))
 
 </div>
 
