@@ -34,9 +34,3 @@ Backend and data systems, with a focus on real-time data.
 - AI-assisted Software Development
 
 ---
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=G4bar&color=2b2b2b&style=flat)
-
-</div>
