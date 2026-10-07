@@ -13,11 +13,9 @@ Backend and data systems, with a focus on real-time data.
 </div>
 
 ---
-
 ## Interested In
 
 - Backend Engineering
 - Data Engineering
 - AI-assisted Software Development
-
 ---
